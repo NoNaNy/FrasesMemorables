@@ -45,5 +45,3 @@
 > - `Implementacion de Finales del Siglo 20` [**JB**]
 > - `Patron ALVT` [**LD, JB**]
 > - `Ya termine de codificar y ahora no se que hacer con mi vida` [**JB**]
-
-
