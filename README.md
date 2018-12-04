@@ -53,3 +53,4 @@
 > - `Es de humanos equivocarse, pero no 15 veces` [**CA**]
 > - `Solo estoy chambeando para no pensar en pendejadas y estar de grillo` [**JB**]
 > - `Puede ser una mala práctica pero el lenguaje lo permite` [**LM**]
+> - `No es que te VVT sino que eres un wevon comprometido` [**LM**]
