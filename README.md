@@ -57,3 +57,5 @@
 > - `La proactividad mata la razón` [**CZ**]
 > - `A veces saber tanto te pone el pie` [**CZ**]
 > - `Conocer mucho puede entorpecer tus pasos` [**RQ**]
+> - `La metodología es lo que hoy se me ocurra` [**CZ**]
+> - `Tanta cagda me dan ese expertis` [**CZ**]
